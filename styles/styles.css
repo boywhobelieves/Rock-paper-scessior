@@ -1,22 +1,21 @@
-
 body{
   font-family: arial;
   background-color: Black;
   color: white;
-  margin-left: 5px; 
+  margin-left: 25px; 
 }
 
 .title{
-  font-size: 35px;
+  font-size: 55px;
   font-weight: bold;
   margin-top: 25px;
   margin-bottom: 3px;
 }
 
 .Title-2{
-  font-size: 18px;
+  font-size: 15px;
   margin-top: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 42px;
 }
 
 .move-icon{
